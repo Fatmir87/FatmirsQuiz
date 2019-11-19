@@ -1,0 +1,25 @@
+div#test {
+    border: #cdce16 3px solid;
+    padding: 10px 50px 40px 40px;
+    background-clip: #c1bfbf;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    
+}
+
+h2 {
+    color: rgb(34, 94, 34);
+    text-align: center;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: #3EB9E6;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
